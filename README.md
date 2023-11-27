@@ -26,7 +26,7 @@ Emotion recognition is a vital aspect of human-computer interaction and has nume
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.8.0 and above
 - Dependencies listed in `requirements.txt`
 
 ### Installation
