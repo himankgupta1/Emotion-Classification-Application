@@ -17,16 +17,6 @@ Emotion recognition is a vital aspect of human-computer interaction and has nume
 
 ## Features
 
-- Emotion recognition from images, videos, or audio.
-- Support for multiple emotion classes (e.g., happy, sad, angry).
-- Easily extendable for custom datasets.
-- Modular structure for easy integration into other projects.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8.0 and above
-- Dependencies listed in `requirements.txt`
 
 
