@@ -29,9 +29,4 @@ Emotion recognition is a vital aspect of human-computer interaction and has nume
 - Python 3.8.0 and above
 - Dependencies listed in `requirements.txt`
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/himankgupta1/emotion_recognition.git
