@@ -4,7 +4,7 @@ This is a Django-based web application for emotion classification. The project i
 
 ## Project Structure
 
-- `mysite/` - Contains the Django project files.
+- `mysite` - Contains the Django project files.
 - `Emotion Classification.ipynb` - Jupyter Notebook for emotion classification model training and testing.
 - `LICENSE` - The license for the project.
 - `README.md` - This file.
@@ -21,8 +21,8 @@ This is a Django-based web application for emotion classification. The project i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git https://github.com/himankgupta1/Emotion-Classification-Application.git
+    cd Emotion-Classification-Application
     ```
 
 2. Create a virtual environment and activate it:
